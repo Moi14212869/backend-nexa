@@ -1,0 +1,6 @@
+{
+  "salutation": ["salut", "bonjour", "hello", "yo", "coucou"],
+  "question": ["comment tu t'appelles", "que fais-tu", "c'est quoi nexa", "qui es-tu"],
+  "au_revoir": ["au revoir", "bye", "à plus", "ciao"],
+  "autre": ["j'aime le code", "python c'est cool", "je teste nexa"]
+}
